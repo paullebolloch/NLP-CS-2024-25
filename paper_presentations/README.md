@@ -40,18 +40,20 @@ Your presentation will be graded based on the following criteria:
    - BLOOM ([BLOOM](https://arxiv.org/abs/2211.05100))
    - Code [The Stack](https://arxiv.org/abs/2402.19173)
    - GPT 2-3-4 ([GPT-2](https://arxiv.org/abs/2109.01652), [GPT-3](https://arxiv.org/abs/2005.14165), [GPT-4](https://arxiv.org/abs/2303.08774))
-   - Modern Evaluation
+   - Modern Evaluation 1 : (Kemmeny consencus)[https://arxiv.org/abs/2202.03799]
 
 6. **16/04: PostTraining**
    - [TowerLLM](https://arxiv.org/abs/2402.17733)
    - [EuroLLM](https://arxiv.org/abs/2409.16235) / [Mistral](https://arxiv.org/abs/2310.06825) / [Llama 3](https://arxiv.org/abs/2407.21783)
    - [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) / [Limitations of LoRA](https://arxiv.org/abs/2406.03136)
+   - [LLM as a judge](https://arxiv.org/abs/2306.05685)
+   - 
 
 ## What you need to do?
 
 ### Register
 
-Choose by group of N/10 the paper you would like to present by registering before tomorrow 12:00 PM and register on the [google sheet](https://docs.google.com/spreadsheets/d/1rLJqLCXdfX8nDUdNelRM5KHrY1EwUZI4sMWssfZGabU/edit?usp=sharing)
+Choose by group of N/5 the paper you would like to present by registering before the next class 12:00 PM and register on the [google sheet](https://docs.google.com/spreadsheets/d/1rLJqLCXdfX8nDUdNelRM5KHrY1EwUZI4sMWssfZGabU/edit?usp=sharing)
 
 ### The day before the presentation:
 
